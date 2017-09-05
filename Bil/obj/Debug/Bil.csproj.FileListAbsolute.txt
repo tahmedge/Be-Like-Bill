@@ -1,0 +1,10 @@
+c:\users\tahmedge\documents\visual studio 2015\Projects\Bil\Bil\bin\Debug\Bil.exe.config
+C:\Users\Tahmedge\documents\visual studio 2015\Projects\Bil\Bil\bin\Debug\Bil.exe
+C:\Users\Tahmedge\documents\visual studio 2015\Projects\Bil\Bil\bin\Debug\Bil.pdb
+C:\Users\Tahmedge\documents\visual studio 2015\Projects\Bil\Bil\obj\Debug\Bil.Form1.resources
+C:\Users\Tahmedge\documents\visual studio 2015\Projects\Bil\Bil\obj\Debug\Bil.Properties.Resources.resources
+C:\Users\Tahmedge\documents\visual studio 2015\Projects\Bil\Bil\obj\Debug\Bil.csproj.GenerateResource.Cache
+C:\Users\Tahmedge\documents\visual studio 2015\Projects\Bil\Bil\obj\Debug\Bil.exe
+C:\Users\Tahmedge\documents\visual studio 2015\Projects\Bil\Bil\obj\Debug\Bil.pdb
+C:\Users\Tahmedge\documents\visual studio 2015\Projects\Bil\Bil\obj\Debug\Bil.Form2.resources
+C:\Users\Tahmedge\documents\visual studio 2015\Projects\Bil\Bil\obj\Debug\Bil.SplashScreen.resources
